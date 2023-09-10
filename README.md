@@ -8,7 +8,7 @@ node-webcam <br>
 node-telegram-bot-api <br>
 <code>
   npm i node-telegram-bot-api
-</code>
+</code> 
 <h4>Использование | Using</h4>
 <p>
   Измените значение переменной <code>const token ="*"</code> и <code>const chatId ="*"</code> Токен и индификатор чата куда должно приходить фото.
